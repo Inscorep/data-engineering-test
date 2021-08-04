@@ -1,0 +1,21 @@
+line_of_business_id,line_of_business_description
+1,Appliances
+2,Motor
+3,Property
+4,Aviation
+5,Marine
+6,Industrial
+7,Personal
+8,Commercial
+9,Mining
+10,Staples
+11,Clothing
+12,Oil
+13,Investments
+14,Electricity
+15,Riots
+16,IT Infrastructure
+17,Road Infrastructure
+18,Plant Equipment
+19,Farm Equipment
+20,Medical
