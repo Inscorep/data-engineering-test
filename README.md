@@ -23,4 +23,4 @@ The policy file contains a policy per client. Each policy can have multiple poli
 8. Which broker made the most money per line of business? (Join & Pivot)
 9. Which effective date had the largest effective policy insured including vat?
 
-Please create an answer .py file to answer question within.
+Please create an answer.py file to answer the above questions.
