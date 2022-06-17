@@ -2,7 +2,7 @@
 
 ## Data
 
-In the data folder there are four files which was sent from an insurance underwriting management (UMA) agency. The files were:
+In the data folder there are four files which was sent from an Insurance Underwriting Management Agency (UMA). The files were:
 
 - A broker file
 - A line of business file
