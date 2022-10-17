@@ -12,6 +12,7 @@ Resolves #
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] New data correction pipeline
 - [ ] New data pipeline
+- [ ] Enhancement
 
 ## Checklist before requesting a review
 
